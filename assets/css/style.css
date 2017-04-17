@@ -1,0 +1,65 @@
+.container{
+	width:100%;
+	height:auto;
+}
+.icon {
+	width:70px;
+	height:70px;
+}
+.container-fluid {
+	background-color: #fff;
+}
+.navbar-header {
+	background-color: #4aaaa5;
+}
+.navbar-brand {
+	text-decoration: none;
+	font-size: 32px;
+}
+#nav{
+	padding-top:15px;
+}
+#nav_about,
+#nav_portfolio {
+	border-right:2px solid #ddd;
+}
+
+#connect_heading {
+	background-color:#ffffff;
+	border-bottom:none;
+}
+#connect_title {
+	color:#4aaaa5;
+	font-size: 24px;
+	border-bottom:2px solid #ddd;
+	padding:15px;
+}
+#main_heading {
+	background-color:#ffffff;
+	border-bottom: none;
+}
+#main_title {
+	color:#4aaaa5;
+	font-size: 32px;
+	border-bottom: 2px solid #ddd;
+	padding:15px;
+}
+#footer {
+	background-color:#666666;
+	border-top:2px solid #4aaaa5;
+	text-align: center;
+}
+p{
+	margin-left:140px;
+}
+.thumbnail {
+	height:200px;
+	width:200px;
+	margin:0 auto;
+}
+.formInfo {
+	width:100%;
+}
+textarea {
+	height:200px;
+}
